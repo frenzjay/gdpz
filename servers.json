@@ -7,7 +7,7 @@
     "id": "",
     "endpoint": "http://boomlings.com/database/",
     "timestampSuffix": " ago",
-    "downloadsDisabled": true
+    "downloadsDisabled": false
   },
   
   {
@@ -25,12 +25,12 @@
   },
 
   {
-    "name": "1.9 GDPS",
-    "link": "https://absolllute.com/gdps/",
-    "author": "Absolute",
+    "name": "ZGDPZ",
+    "link": "http://zyanngdps.7m.pl",
+    "author": "Zyann Coby",
     "authorLink": "https://www.youtube.com/channel/UCpdDW0ZdzoRzioT4eTfn-yw",
-    "id": "19gdps",
-    "endpoint": "http://absolllute.com/gdps/gdapi/",
+    "id": "zgdpz",
+    "endpoint": "http://zyanngdpz.7m.pl/database/",
     "onePointNine": true,
     "weeklyLeaderboard": true,
     "overrides": {
